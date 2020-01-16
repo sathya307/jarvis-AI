@@ -1,4 +1,4 @@
-# JARVIA/AI
+# JARVIS/AI
 python code for a simple chat box
 
 
