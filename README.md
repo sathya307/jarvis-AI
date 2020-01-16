@@ -1,4 +1,4 @@
-# joker
+# JARVIA/AI
 python code for a simple chat box
 
 
